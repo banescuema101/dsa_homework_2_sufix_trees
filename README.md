@@ -1,5 +1,5 @@
 Bănescu Ema-Ioana 311CB
-.................................................Descrierea functiilor...............................................................
+.................................................Descrierea functiilor...........................................................................................
 
 Primele 4 functii, InitQ, IntrQ si ExtrQ si elibereaza_coada, sunt preluate ca si idee din tema 1, intrucat voi avea nevoie de ele
 la partea de parcurgere in latime a arborelui. Sa trecem la partea de arbori din cadrul temei.
@@ -59,7 +59,7 @@ de tip Tree la noul nod format sau arborele initial, daca nu a fost facuta nicio
 10. Functia elibereaza_arbore, elibereaza memoria pentru sirul info, pentru fiecare copil in parte si pentru arbore, pointer la structura
 Node, la randul lui.
 
-..................................................Descrierea programului principal.........................................................
+..................................................Descrierea programului principal...............................................................................
 
 Programul, conform cerintei, trebuie sa primeasca argumente din linia de comandă și în funcție de acestea, sa rezolve taskul 1, 2, 3 sau 4.
 De aceea functia main, are ca parametrii, numarul de argumente si lista de argumente. Initial, verific numarul de argumente.
